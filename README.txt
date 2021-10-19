@@ -1,4 +1,4 @@
-Hello! In analysis_pcap_tcp.py, you will find all the code for this assignment.
+
 First, you must specify the name of the pcap file that you would like to test.
 
 For part A.a, whenever a SYN flag was found on a packet, this meant a new flow has been found. I would then initialize
